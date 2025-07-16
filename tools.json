@@ -1,0 +1,429 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "צ'אט ו-AI כללי",
+    "description": "העוזר האולטימטיבי לכתיבה, סיכומים, רעיונות, תרגום, ניתוח קבצים, תמונות ועוד. מתאים לכל מטרה יומיומית או מקצועית.",
+    "url": "https://chat.openai.com/"
+  },
+  {
+    "name": "Perplexity",
+    "category": "צ'אט ו-AI כללי",
+    "description": "מנוע תשובות חכם שמחזיר מידע מבוסס מקורות עדכניים מהאינטרנט. מעולה למחקר.",
+    "url": "https://www.perplexity.ai/"
+  },
+  {
+    "name": "Claude",
+    "category": "צ'אט ו-AI כללי",
+    "description": "מודל שפה חזק מבית Anthropic, מצטיין בניתוח מסמכים ארוכים, כתיבה יצירתית ושיחה טבעית.",
+    "url": "https://claude.ai/"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "category": "צ'אט ו-AI כללי",
+    "description": "עוזר AI של מיקרוסופט, זמין בצ'אט ומשולב במוצרים נוספים. נותן גישה למודלים כמו GPT-4 ו-DALL-E 3 בחינם.",
+    "url": "https://copilot.microsoft.com/"
+  },
+  {
+    "name": "Gemini",
+    "category": "צ'אט ו-AI כללי",
+    "description": "מודל השפה של גוגל, משולב במוצרי גוגל ומצטיין בחיבוריות לשירותי החברה כמו ג'ימייל, דרייב וחיפוש.",
+    "url": "https://gemini.google.com/"
+  },
+  {
+    "name": "Grok",
+    "category": "צ'אט ו-AI כללי",
+    "description": "מודל שפה מתקדם מבית xAI (של אילון מאסק), המספק תשובות עדכניות ובעל חוש הומור ייחודי.",
+    "url": "https://grok.x.ai/"
+  },
+  {
+    "name": "HuggingChat",
+    "category": "צ'אט ו-AI כללי",
+    "description": "פלטפורמת צ'אט פתוחה לשימוש חופשי המבוססת על מודלי קוד פתוח, עם דגש על פרטיות ושליטה.",
+    "url": "https://huggingface.co/chat/"
+  },
+  {
+    "name": "Poe",
+    "category": "צ'אט ו-AI כללי",
+    "description": "אפליקציה המרכזת גישה למגוון רחב של מודלי AI (כמו קלוד, ג'מיני, Llama) בממשק אחיד.",
+    "url": "https://poe.com/"
+  },
+  {
+    "name": "Midjourney",
+    "category": "יצירת תמונות",
+    "description": "כלי ה-AI הפופולרי ביותר ליצירת תמונות אמנותיות ואסתטיות במיוחד על בסיס תיאור טקסטואלי.",
+    "url": "https://www.midjourney.com/"
+  },
+  {
+    "name": "Leonardo.Ai",
+    "category": "יצירת תמונות",
+    "description": "פלטפורמה גרפית מתקדמת עם מודלים מגוונים ויכולת fine-tune לסטייל ייחודי. כולל ממשק נוח מאוד.",
+    "url": "https://leonardo.ai/"
+  },
+  {
+    "name": "Canva",
+    "category": "יצירת תמונות",
+    "description": "פלטפורמה פופולרית לעיצוב גרפי, עריכת תמונות, יצירת פוסטים לרשתות חברתיות ומצגות. כולל כלים חכמים מבוססי AI.",
+    "url": "https://www.canva.com/"
+  },
+  {
+    "name": "Magnific",
+    "category": "יצירת תמונות",
+    "description": "הכלי המתקדם ביותר לשיפור, חידוד והוספת פרטים (Upscaling) לתמונות קיימות באמצעות AI.",
+    "url": "https://magnific.ai/"
+  },
+  {
+    "name": "Freepik AI",
+    "category": "יצירת תמונות",
+    "description": "כלי גרפי מבית Freepik המייצר תמונות, איורים ואייקונים בסגנונות מגוונים.",
+    "url": "https://www.freepik.com/ai"
+  },
+  {
+    "name": "Pikzels",
+    "category": "יצירת תמונות",
+    "description": "יוצר Thumbnails מקצועיים ליוטיוב ומודעות מותאמות בעזרת בינה מלאכותית.",
+    "url": "https://www.pikzels.com/"
+  },
+  {
+    "name": "KLING",
+    "category": "יצירת וידאו",
+    "description": "כלי ליצירת סרטוני AI מדהימים באורך של עד 2 דקות מתיאור טקסטואלי, עם תנועה חלקה ואיכות קולנועית.",
+    "url": "https://kling.kuaishou.com/"
+  },
+  {
+    "name": "Runway",
+    "category": "יצירת וידאו",
+    "description": "יוצר סרטונים מטקסט ותמונות וכולל כלי עריכה מתקדמים כמו החלפת רקעים, ייצוב תנועה ואפקטים מיוחדים.",
+    "url": "https://runwayml.com/"
+  },
+  {
+    "name": "Pika",
+    "category": "יצירת וידאו",
+    "description": "פלטפורמת וידאו פופולרית ליצירה ועריכה של סרטונים קצרים מטקסט, תמונות וסרטונים קיימים.",
+    "url": "https://pika.art/"
+  },
+  {
+    "name": "HeyGen",
+    "category": "יצירת וידאו",
+    "description": "יוצר סרטונים עם אוואטרים מדברים, כולל סנכרון שפתיים ותרגום וידאו לשפות שונות.",
+    "url": "https://www.heygen.com/"
+  },
+  {
+    "name": "Synthesia",
+    "category": "יצירת וידאו",
+    "description": "הפקת סרטוני הדרכה ושיווק מקצועיים עם אוואטרים ריאליסטיים בעשרות שפות.",
+    "url": "https://www.synthesia.io/"
+  },
+  {
+    "name": "Veed.io",
+    "category": "יצירת וידאו",
+    "description": "פלטפורמת עריכת וידאו אונליין עם תמלול אוטומטי, תרגום, הוספת כתוביות ואפקטים חכמים.",
+    "url": "https://www.veed.io/"
+  },
+  {
+    "name": "CapCut",
+    "category": "יצירת וידאו",
+    "description": "אפליקציית עריכת וידאו עוצמתית (מבית טיקטוק) הכוללת תבניות, אפקטים, כתוביות אוטומטיות וכלים חכמים.",
+    "url": "https://www.capcut.com/"
+  },
+  {
+    "name": "Descript",
+    "category": "אודיו ווידאו",
+    "description": "עורך וידאו ואודיו מבוסס טקסט. מאפשר לערוך הקלטות כמו מסמך Word, כולל תמלול אוטומטי והסרת מילות מילוי.",
+    "url": "https://www.descript.com/"
+  },
+  {
+    "name": "Suno",
+    "category": "אודיו ומוזיקה",
+    "description": "יוצר שירים שלמים (מנגינה, קצב, מילים וביצוע) על בסיס תיאור טקסטואלי.",
+    "url": "https://suno.com/"
+  },
+  {
+    "name": "Udio",
+    "category": "אודיו ומוזיקה",
+    "description": "יצירת שירים באיכות גבוהה מתיאור טקסטואלי, כולל הורדת סאונד לשימוש בעריכה או הפצה.",
+    "url": "https://www.udio.com/"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "אודיו ומוזיקה",
+    "description": "כלי סינתזת קול מהמתקדמים ביותר, כולל שימור טון, רגש, ושיבוט של קול אנושי.",
+    "url": "https://elevenlabs.io/"
+  },
+  {
+    "name": "Murf.ai",
+    "category": "אודיו ומוזיקה",
+    "description": "יוצר קריינות מקצועית לסרטונים, פודקאסטים ומצגות, עם שליטה בטון, קצב וסגנון.",
+    "url": "https://murf.ai/"
+  },
+  {
+    "name": "LALAL.AI",
+    "category": "אודיו ומוזיקה",
+    "description": "מפריד בין ערוצים מוזיקליים (שירה, תופים, גיטרה וכו') בקבצי סאונד ווידאו.",
+    "url": "https://www.lalal.ai/"
+  },
+  {
+    "name": "Adobe Podcast",
+    "category": "אודיו ומוזיקה",
+    "description": "הקלטה ועריכת אודיו ישירות בדפדפן, כולל כלי Enhance Speech לשיפור איכות הדיבור והסרת רעשי רקע.",
+    "url": "https://podcast.adobe.com/"
+  },
+  {
+    "name": "Kits.ai",
+    "category": "אודיו ומוזיקה",
+    "description": "חבילת כלים למפיקים מוזיקליים: שיבוט קולות, הפקת שירה וכלי נגינה מלאכותיים.",
+    "url": "https://www.kits.ai/"
+  },
+  {
+    "name": "Make",
+    "category": "אוטומציות",
+    "description": "פלטפורמה לאוטומציה בין אפליקציות ושירותים, עם ממשק ויזואלי וגמישות לוגית גבוהה.",
+    "url": "https://www.make.com/"
+  },
+  {
+    "name": "Zapier",
+    "category": "אוטומציות",
+    "description": "מחבר בין אלפי אפליקציות ובונה אוטומציות חכמות. כולל יכולות AI חדשות ליצירת תהליכים מורכבים.",
+    "url": "https://zapier.com/"
+  },
+  {
+    "name": "Manychat",
+    "category": "אוטומציות",
+    "description": "כלי לבניית צ'אטבוטים אוטומטיים לאינסטגרם, וואטסאפ ופייסבוק. מושלם לשיווק, שירות ומכירה.",
+    "url": "https://manychat.com/"
+  },
+  {
+    "name": "N8N",
+    "category": "אוטומציות",
+    "description": "פלטפורמת אוטומציה בקוד פתוח עם ממשק ויזואלי המאפשרת לבנות תהליכים חכמים ולהתחבר לכל API.",
+    "url": "https://n8n.io/"
+  },
+  {
+    "name": "Gamma",
+    "category": "מצגות",
+    "description": "בונה מצגות אינטראקטיביות, מסמכים ודפי אינטרנט מעוצבים על בסיס הנחיה פשוטה.",
+    "url": "https://gamma.app/"
+  },
+  {
+    "name": "Beautiful.ai",
+    "category": "מצגות",
+    "description": "כלי עיצוב מצגות מקצועי עם אלגוריתם שמארגן באופן אוטומטי את התוכן והעיצוב של כל שקופית.",
+    "url": "https://www.beautiful.ai/"
+  },
+  {
+    "name": "SlidesAI",
+    "category": "מצגות",
+    "description": "ממיר טקסטים, מסמכים או סיכומים למצגות מעוצבות ב-Google Slides ו-PowerPoint.",
+    "url": "https://www.slidesai.io/"
+  },
+  {
+    "name": "Plus AI",
+    "category": "מצגות",
+    "description": "תוסף ל-Google Slides ו-PowerPoint המאפשר ליצור, לערוך ולעצב שקפים באמצעות הנחיות טקסט.",
+    "url": "https://www.plusdocs.com/"
+  },
+  {
+    "name": "Notion",
+    "category": "פרודוקטיביות וניהול",
+    "description": "כלי עבודה חכם שמרכז כתיבה, ניהול משימות, מסדי נתונים, תיעוד ושיתוף פעולה במקום אחד.",
+    "url": "https://www.notion.so/"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "פרודוקטיביות וניהול",
+    "description": "עוזר אישי מבית Google ש'לומד' את החומרים שאתה מעלה ויכול לענות על שאלות, לסכם ולחבר ביניהם.",
+    "url": "https://notebooklm.google.com/"
+  },
+  {
+    "name": "TimeOS",
+    "category": "פרודוקטיביות וניהול",
+    "description": "עוזר AI לפגישות אונליין, מתמלל ומסכם שיחות באופן אוטומטי. משתלב עם Zoom, Google Meet ו-Slack.",
+    "url": "https://timeos.ai/"
+  },
+  {
+    "name": "Monday.com",
+    "category": "פרודוקטיביות וניהול",
+    "description": "פלטפורמת ניהול פרויקטים ועבודה חכמה המאפשרת מעקב אחרי משימות, תהליכים, צוותים ויעדים.",
+    "url": "https://monday.com/"
+  },
+  {
+    "name": "Jasper",
+    "category": "שיווק וכתיבה",
+    "description": "פלטפורמת תוכן AI לעסקים, מתמחה ביצירת תוכן שיווקי איכותי כמו פוסטים לבלוג, מיילים ומודעות.",
+    "url": "https://www.jasper.ai/"
+  },
+  {
+    "name": "Surfer SEO",
+    "category": "שיווק וכתיבה",
+    "description": "כלי לניתוח ויצירת תוכן מבוסס מחקר SEO אוטומטי. עוזר לכתוב מאמרים שידורגו גבוה בגוגל.",
+    "url": "https://surferseo.com/"
+  },
+  {
+    "name": "AdCreative.ai",
+    "category": "שיווק וכתיבה",
+    "description": "יוצר מודעות גרפיות וטקסטים ממירים לרשתות כמו פייסבוק, אינסטגרם וגוגל.",
+    "url": "https://www.adcreative.ai/"
+  },
+  {
+    "name": "Lavender",
+    "category": "שיווק וכתיבה",
+    "description": "עוזר כתיבה לאימיילים. מנתח ומשפר את הטקסטים שלך כדי להגדיל את סיכויי המענה.",
+    "url": "https://www.lavender.ai/"
+  },
+  {
+    "name": "Taplio",
+    "category": "שיווק וכתיבה",
+    "description": "כלי שיווק מבוסס AI ללינקדאין. עוזר ליצור תוכן, להציע רעיונות ולחזק מותג אישי.",
+    "url": "https://www.taplio.com/"
+  },
+  {
+    "name": "Predis.ai",
+    "category": "שיווק וכתיבה",
+    "description": "יוצר פוסטים, סטוריז, סרטונים והאשטגים לרשתות חברתיות באמצעות AI.",
+    "url": "https://predis.ai/"
+  },
+  {
+    "name": "Consensus",
+    "category": "למידה ומחקר",
+    "description": "מנוע חיפוש למאמרים מדעיים. מוצא תשובות רק מתוך מחקרים אקדמיים ומנתח ממצאים.",
+    "url": "https://consensus.app/"
+  },
+  {
+    "name": "Elicit",
+    "category": "למידה ומחקר",
+    "description": "כלי מחקר אוטומטי למציאת מאמרים, הפקת תובנות וסיכום שאלות על סמך דאטה מדעי.",
+    "url": "https://elicit.com/"
+  },
+  {
+    "name": "Scispace",
+    "category": "למידה ומחקר",
+    "description": "סיכום והסבר של מאמרים מדעיים, כולל הבהרת מונחים וקישורים לנושאים קשורים.",
+    "url": "https://scispace.com/"
+  },
+  {
+    "name": "Humata",
+    "category": "למידה ומחקר",
+    "description": "מאפשר לשאול שאלות על מסמכים ארוכים (PDF) ולקבל תשובות מדויקות וסיכומים תוך שניות.",
+    "url": "https://www.humata.ai/"
+  },
+  {
+    "name": "Astria",
+    "category": "אימון מודלים",
+    "description": "מאמן מודל חזותי אישי על תמונות שלך ליצירת פורטרטים, דמויות וסצנות חדשות בדמותך.",
+    "url": "https://www.astria.ai/"
+  },
+  {
+    "name": "HeadshotPro",
+    "category": "אימון מודלים",
+    "description": "יוצר תמונות פרופיל (Headshots) מקצועיות ועסקיות מתוך סט תמונות אישי שאתה מעלה.",
+    "url": "https://www.headshotpro.com/"
+  },
+  {
+    "name": "Cursor",
+    "category": "קוד ותכנות",
+    "description": "עורך קוד (IDE) מבוסס AI שיודע לכתוב, לתקן ולהסביר קוד בהתאם להקשר של כל הפרויקט שלך.",
+    "url": "https://cursor.sh/"
+  },
+  {
+    "name": "Lovable",
+    "category": "בניית אתרים ואפליקציות",
+    "description": "יוצר אתרים ואפליקציות שלמות על בסיס פרומפטים בלבד - כולל עיצוב, לוגיקה וחיבור לדאטה-בייס.",
+    "url": "https://www.lovable.dev/"
+  },
+  {
+    "name": "Builder.io",
+    "category": "בניית אתרים ואפליקציות",
+    "description": "מאפשר לבנות ממשקי משתמש ודפי נחיתה אינטראקטיביים מתוך תיאור טקסטואלי או סקיצה.",
+    "url": "https://www.builder.io/"
+  },
+  {
+    "name": "Dora.ai",
+    "category": "בניית אתרים ואפליקציות",
+    "description": "בונה אתרי אינטרנט תלת ממדיים (3D) ומעוצבים לפי תיאור, עם אנימציות אינטראקטיביות.",
+    "url": "https://www.dora.run/"
+  },
+  {
+    "name": "Typedream",
+    "category": "בניית אתרים ואפליקציות",
+    "description": "בונה אתרים ודפי נחיתה בסגנון Notion על בסיס הנחיה כתובה.",
+    "url": "https://typedream.com/"
+  },
+  {
+    "name": "אליעזר - תמלול קולי",
+    "category": "שירותי וואטסאפ",
+    "description": "בוט ישראלי פשוט ואפקטיבי שממיר הודעות קוליות בוואטסאפ לטקסט תוך שניות.",
+    "url": "https://wa.me/972506878234"
+  },
+  {
+    "name": "Spotlightr",
+    "category": "יצירת וידאו",
+    "description": "פלטפורמה לאירוח וידאו מאובטח, אידיאלית לקורסים דיגיטליים ותכנים שדורשים הגנה.",
+    "url": "https://spotlightr.com/"
+  },
+  {
+    "name": "Fotor AI Avatar",
+    "category": "אימון מודלים",
+    "description": "מייצר אוואטרים מהתמונות שלך במגוון סגנונות - פנטזיה, ריאליסטי, משחקים ועוד.",
+    "url": "https://www.fotor.com/features/ai-avatar-generator/"
+  },
+  {
+    "name": "Photo AI",
+    "category": "אימון מודלים",
+    "description": "מאפשר להעלות סט תמונות וליצור מודל אישי, כולל שילוב עם תסריטים, רקעים ומצבים שונים.",
+    "url": "https://photoai.com/"
+  },
+  {
+    "name": "Smartwriter.ai",
+    "category": "שיווק וכתיבה",
+    "description": "כלי לכתיבה והתאמה אישית של אימיילים קרים (cold emails) לפי פרופיל הלקוח או האתר שלו.",
+    "url": "https://www.smartwriter.ai/"
+  },
+  {
+    "name": "Wisdolia",
+    "category": "למידה ומחקר",
+    "description": "יוצר כרטיסיות למידה (flashcards) באופן אוטומטי מכל מאמר, מסמך PDF או סרטון יוטיוב.",
+    "url": "https://www.wisdolia.com/"
+  },
+  {
+    "name": "Boomy",
+    "category": "אודיו ומוזיקה",
+    "description": "יוצר שירים מקוריים ואינסטרומנטליים תוך שניות באמצעות בינה מלאכותית.",
+    "url": "https://boomy.com/"
+  },
+  {
+    "name": "Krea.ai",
+    "category": "יצירת תמונות",
+    "description": "חבילת כלים ליצירה ועריכה של תמונות וסרטונים, עם דגש על שיפור בזמן אמת (Real-time generation).",
+    "url": "https://www.krea.ai/"
+  },
+  {
+    "name": "Explainpaper",
+    "category": "למידה ומחקר",
+    "description": "מסביר פסקאות ומונחים קשים ממאמרים מדעיים באנגלית פשוטה. עוזר בקריאה והבנה.",
+    "url": "https://www.explainpaper.com/"
+  },
+  {
+    "name": "Hummata",
+    "category": "למידה ומחקר",
+    "description": "מאפשר לשאול שאלות על מסמכים ארוכים (PDF) ולקבל תשובות מדויקות וסיכומים תוך שניות.",
+    "url": "https://www.humata.ai/"
+  },
+  {
+    "name": "Hugsfield",
+    "category": "יצירת וידאו",
+    "description": "כלי ליצירת אפקטים חזותיים (VFX) וסרטונים סינטטיים באיכות גבוהה מתמונה אחת בלבד.",
+    "url": "https://hugsfield.io/"
+  },
+  {
+    "name": "Base64.ai",
+    "category": "בניית אתרים ואפליקציות",
+    "description": "כלי לבניית אפליקציות מורכבות בעזרת בינה מלאכותית, כולל התממשקות ל-API, דאטהבייס ועיצוב.",
+    "url": "https://www.base64.ai/"
+  },
+  {
+  "name": "Google Veo",
+  "category": "יצירת וידאו",
+  "description": "מודל יצירת הווידאו המתקדם ביותר של גוגל, המאפשר ליצור סרטונים באיכות גבוהה (1080p) ובסגנונות מגוונים מתוך הנחיות טקסט, תמונה או וידאו.",
+  "url": "https://deepmind.google/technologies/veo/"
+}
+
+]
