@@ -1,0 +1,9 @@
+python-telegram-bot
+groq
+python-dotenv
+requests
+pymongo[srv]
+Flask
+sentence-transformers
+faiss-cpu
+numpy
